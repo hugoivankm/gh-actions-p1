@@ -1,4 +1,4 @@
-name: deployment
+name: issues
 on: [issues, workflow_dispatch]
 jobs:
   issues:
